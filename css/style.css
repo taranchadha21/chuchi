@@ -1,0 +1,21 @@
+body{
+background-color: #F08080;
+}
+h3{
+color:	#FF4500;
+}
+h2{
+  color: #FF4500;
+  font-family:monospace;
+}
+h1{
+  color: #FF4500;
+  font-family:  sans-serif
+}
+hr{
+border-style: none;
+border-top-style:solid;
+border-color: grey;
+border-width: 6px;
+width: 30%;
+}
